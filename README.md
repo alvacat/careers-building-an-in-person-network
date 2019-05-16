@@ -25,7 +25,7 @@ When it comes to face-to-face networking, there are lots of options. Here are so
 
 2. **Associations/organizations** - These tend to be more formal gatherings, usually closed to members only. Being a part of an association/organization often means you must apply, and pay a membership fee. Example: [Women in Technology International](http://www.witi.com/), [AIGA (American Institute of Graphic Arts)](https://www.aiga.org/)
 
-3. **Conferences** - Conferences are typically several days in length, and held at convention halls or large hotels. Because of this, they are often at a higher price point. Many people will travel to attend conferences. Example: [RailsConf (Software Engineering)](http://railsconf.com/), [PyData (Data Science)] (https://pydata.org/), [IXDA (Design)](https://interaction19.ixda.org/)
+3. **Conferences** - Conferences are typically several days in length, and held at convention halls or large hotels. Because of this, they are often at a higher price point. Many people will travel to attend conferences. Example: [RailsConf (Software Engineering)](http://railsconf.com/), [PyData (Data Science)](https://pydata.org/), [IXDA (Design)(https://interaction19.ixda.org/)
 
 4. **Other Industry (or even Non-Tech) Events** - [Gary’s Guide](https://www.garysguide.com/events) (New York City and San Francisco areas) and [Eventbrite](https://www.eventbrite.com/) (global) are two other places to find networking opportunities
 
@@ -33,7 +33,7 @@ When it comes to face-to-face networking, there are lots of options. Here are so
 
 6. **Coworking spaces** - Coworking spaces are places people without an office go to work. Many of these people work for larger companies remotely, freelance, work at startups, or even have their own business. Coworking itself is a great way to meet people. However, many coworking spaces also host their own events. Example: [WeWork](https://www.wework.com/)
 
-7. **Volunteering** - Volunteering is an underrated networking method. Unlike happy hours and networking events, volunteering centers on giving back to a cause. However, it also provides the chance to meet new people who share your interests and do impactful work. Meeting people at volunteer events shows the people present that you’re passionate about your chosen career and you work hard.Example: [Girls Who Code](http://girlswhocode.com/get-involved/) (Sofwtare Engineering), [DataKind] (https://www.datakind.org/) (Data Science), [Design for Good](https://www.aiga.org/designforgood-get-involved) (Design), [Catchafire](https://www.catchafire.org/), [TapRoot+](https://www.taprootplus.org/), [Volunteer Match](https://www.volunteermatch.org/)
+7. **Volunteering** - Volunteering is an underrated networking method. Unlike happy hours and networking events, volunteering centers on giving back to a cause. However, it also provides the chance to meet new people who share your interests and do impactful work. Meeting people at volunteer events shows the people present that you’re passionate about your chosen career and you work hard.Example: [Girls Who Code](http://girlswhocode.com/get-involved/) (Sofwtare Engineering), [DataKind](https://www.datakind.org/) (Data Science), [Design for Good](https://www.aiga.org/designforgood-get-involved) (Design), [Catchafire](https://www.catchafire.org/), [TapRoot+](https://www.taprootplus.org/), [Volunteer Match](https://www.volunteermatch.org/)
 
 While building a professional community is important, don’t limit yourself to attending only events in your industry. If you attend events outside of the industry, you’ll stand out more *because you’ll probably be one of the few there with your skill set!*
 
@@ -183,7 +183,7 @@ While meeting a new person at a meetup is important, it’s only the start. The 
 
 > Dear Jill, 
 
-> It was great meeting you at the [Event name] Meetup last night and chatting about our bootcamp experiences and music discovery projects! I’d love to stay connected here and hope to continue the conversation (I sent a direct email as well).
+> It was great meeting you at the [Event Name] Meetup last night and chatting about our bootcamp experiences and music discovery projects! I’d love to stay connected here and hope to continue the conversation (I sent a direct email as well).
 
 > Have a wonderful day!
 
