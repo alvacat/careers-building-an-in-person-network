@@ -23,21 +23,21 @@ When it comes to face-to-face networking, there are lots of options. Here are so
 
 1. **[Meetups](http://www.meetup.com/)** - Meetup iis a platform where anyone can organize an in-person get together around a certain topic. There are lots of tech meetups in cities across the world. Meetups give you the chance to connect with others, learn about new products, and listen to talks. Meetups are usually free to attend. However, some may cost money, but usually not more than $5-10.
 
-2. **Associations/organizations** - These tend to be more formal gatherings, usually closed to members only. Being a part of an association/organization often means you must apply, and pay a membership fee. Example: [Women in Technology International](http://www.witi.com/)
+2. **Associations/organizations** - These tend to be more formal gatherings, usually closed to members only. Being a part of an association/organization often means you must apply, and pay a membership fee. Example: [Women in Technology International](http://www.witi.com/), [AIGA (American Institute of Graphic Arts)](https://www.aiga.org/)
 
-3. **Conferences** - Conferences are typically several days in length, and held at convention halls or large hotels. Because of this, they are often at a higher price point. Many people will travel to attend conferences. Example: [RailsConf](http://railsconf.com/)
+3. **Conferences** - Conferences are typically several days in length, and held at convention halls or large hotels. Because of this, they are often at a higher price point. Many people will travel to attend conferences. Example: [RailsConf (Software Engineering)](http://railsconf.com/), [PyData (Data Science)] (https://pydata.org/), [IXDA (Design)](https://interaction19.ixda.org/)
 
 4. **Other Industry (or even Non-Tech) Events** - [Gary’s Guide](https://www.garysguide.com/events) (New York City and San Francisco areas) and [Eventbrite](https://www.eventbrite.com/) (global) are two other places to find networking opportunities
 
-5. **Hackathons** - Hackathons are competitions in which a large number of people meet to engage in collaborative computer programming. Participants are asked to ‘build something from nothing.’ Recruiters often attend these events, too.
+5. **Hackathons** - Hackathons are competitions in which a large number of people meet to engage in collaborative projects. Participants are asked to ‘build something from nothing.’ Recruiters often attend these events, too.
 
 6. **Coworking spaces** - Coworking spaces are places people without an office go to work. Many of these people work for larger companies remotely, freelance, work at startups, or even have their own business. Coworking itself is a great way to meet people. However, many coworking spaces also host their own events. Example: [WeWork](https://www.wework.com/)
 
-7. **Volunteering** - Volunteering is an underrated networking method. Unlike happy hours and networking events, volunteering centers on giving back to a cause. However, it also provides the chance to meet new people who share your interests and do impactful work. Meeting people at volunteer events shows the people present that you’re passionate about programming and you work hard.Example: [Girls Who Code](http://girlswhocode.com/get-involved/)
+7. **Volunteering** - Volunteering is an underrated networking method. Unlike happy hours and networking events, volunteering centers on giving back to a cause. However, it also provides the chance to meet new people who share your interests and do impactful work. Meeting people at volunteer events shows the people present that you’re passionate about your chosen career and you work hard.Example: [Girls Who Code](http://girlswhocode.com/get-involved/) (Sofwtare Engineering), [DataKind] (https://www.datakind.org/) (Data Science), [Design for Good](https://www.aiga.org/designforgood-get-involved) (Design), [Catchafire](https://www.catchafire.org/), [TapRoot+](https://www.taprootplus.org/), [Volunteer Match](https://www.volunteermatch.org/)
 
-While building a developer community is important, don’t limit yourself to attending only tech events. If you attend events outside of the tech industry, you’ll stand out more *because you’ll probably be one of the few there with technical skills!*
+While building a professional community is important, don’t limit yourself to attending only events in your industry. If you attend events outside of the industry, you’ll stand out more *because you’ll probably be one of the few there with your skill set!*
 
-All companies and industries need tech talent. Still, make sure to attend events you have an interest in. This way you’ll be able to make genuine connections with people who are also attending, and learn something in the process.
+All companies and industries need talent like yours. Still, make sure to attend events you have an interest in. This way you’ll be able to make genuine connections with people who are also attending, and learn something in the process.
 
 ## Meetups: Approach - What to DO and How to Follow Up
 
@@ -45,7 +45,7 @@ All companies and industries need tech talent. Still, make sure to attend events
 
 When deciding on which meetups to attend, here are some things to consider:
 
-1. *Topic:* Explore both tech meetups and non-tech meetups.  A great connection can come from anywhere, tech or elsewhere! This process is about meeting people, making friends and cultivating relationships. Doing this with people who share your passions and interests will help it feel more natural and enjoyable.
+1. *Topic:* Explore both meetups both within and outside of your field of study.  A great connection can come from anywhere, tech or elsewhere! This process is about meeting people, making friends and cultivating relationships. Doing this with people who share your passions and interests will help it feel more natural and enjoyable.
 
 2. *Type:* Meetups are all designed differently. Some are for networking and socializing, while others focus on lectures, workshops, problem-solving, panel discussions or presentations. Choose a type that resonates with you.
 
@@ -164,7 +164,7 @@ While meeting a new person at a meetup is important, it’s only the start. The 
 
 > Dear Jill,
 
-> It was great meeting you last night at the React Project Night meetup. It was fantastic to meet a fellow bootcamp grad and music lover, and chat about our final projects- both related to new music discovery!
+> It was great meeting you last night at the [Even Name] meetup. It was fantastic to meet a fellow bootcamp grad and music lover, and chat about our final projects- both related to new music discovery!
 
 > We started talking about music tech meetups and startups in NYC, but due to the time weren’t able to continue the conversation; I’d love to do so over coffee, my treat! Would you have some time in the evenings next week? 
 
@@ -183,7 +183,7 @@ While meeting a new person at a meetup is important, it’s only the start. The 
 
 > Dear Jill, 
 
-> It was great meeting you at the React Project Night Meetup last night and chatting about our bootcamp experiences and music discovery projects! I’d love to stay connected here and hope to continue the conversation (I sent a direct email as well).
+> It was great meeting you at the [Event name] Meetup last night and chatting about our bootcamp experiences and music discovery projects! I’d love to stay connected here and hope to continue the conversation (I sent a direct email as well).
 
 > Have a wonderful day!
 
@@ -237,10 +237,6 @@ Recognize that not everyone you meet is going to be able to give you what you wa
 Think of it like building long-term friendships. *You don’t ask someone you just befriended to drive you to the airport, or help you move, do you?* Exactly. You ask your closest, and longtime, friends.
 
 ## Conclusion 
-The best way to build a community is by getting out and going to events in your area. While this may be easier in large cities, if you work a little harder (or drive a little further), you’ll very likely find tech events regardless of where you live.
+The best way to build a community is by getting out and going to events in your area. While this may be easier in large cities, if you work a little harder (or drive a little further), you’ll very likely find events regardless of where you live.
 
 When you’re at events, don’t think about what you can get out of the experience. Instead, think about what you can give to others. This kind of mindset will make you more likable, and set a strong foundation for your relationships down the line.
-
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-building-an-in-person-network'>Careers Building an In-Person Network </a> on Learn.co and start learning to code for free.</p>
