@@ -25,7 +25,7 @@ When it comes to face-to-face networking, there are lots of options. Here are so
 
 2. **Associations/organizations** - These tend to be more formal gatherings, usually closed to members only. Being a part of an association/organization often means you must apply, and pay a membership fee. Example: [Women in Technology International](http://www.witi.com/), [AIGA (American Institute of Graphic Arts)](https://www.aiga.org/)
 
-3. **Conferences** - Conferences are typically several days in length, and held at convention halls or large hotels. Because of this, they are often at a higher price point. Many people will travel to attend conferences. Example: [RailsConf (Software Engineering)](http://railsconf.com/), [PyData (Data Science)](https://pydata.org/), [IXDA (Design)(https://interaction19.ixda.org/)
+3. **Conferences** - Conferences are typically several days in length, and held at convention halls or large hotels. Because of this, they are often at a higher price point. Many people will travel to attend conferences. Example: [RailsConf (Software Engineering)](http://railsconf.com/), [PyData (Data Science)](https://pydata.org/), [IXDA (Design)] (https://interaction19.ixda.org/)
 
 4. **Other Industry (or even Non-Tech) Events** - [Gary’s Guide](https://www.garysguide.com/events) (New York City and San Francisco areas) and [Eventbrite](https://www.eventbrite.com/) (global) are two other places to find networking opportunities
 
