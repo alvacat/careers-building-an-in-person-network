@@ -21,7 +21,7 @@ Despite this digital age, nothing is stronger than connecting face-to-face. Here
 
 When it comes to face-to-face networking, there are lots of options. Here are some of the most common. 
 
-1. **[Meetups](http://www.meetup.com/)** - Meetup iis a platform where anyone can organize an in-person get together around a certain topic. There are lots of tech meetups in cities across the world. Meetups give you the chance to connect with others, learn about new products, and listen to talks. Meetups are usually free to attend. However, some may cost money, but usually not more than $5-10.
+1. **[Meetups](http://www.meetup.com/)** - Meetup is a platform where anyone can organize an in-person get together around a certain topic. There are lots of tech meetups in cities across the world. Meetups give you the chance to connect with others, learn about new products, and listen to talks. Meetups are usually free to attend. However, some may cost money, but usually not more than $5-10.
 
 2. **Associations/organizations** - These tend to be more formal gatherings, usually closed to members only. Being a part of an association/organization often means you must apply, and pay a membership fee. Example: [Women in Technology International](http://www.witi.com/), [AIGA (American Institute of Graphic Arts)](https://www.aiga.org/)
 
@@ -33,7 +33,7 @@ When it comes to face-to-face networking, there are lots of options. Here are so
 
 6. **Coworking spaces** - Coworking spaces are places people without an office go to work. Many of these people work for larger companies remotely, freelance, work at startups, or even have their own business. Coworking itself is a great way to meet people. However, many coworking spaces also host their own events. Example: [WeWork](https://www.wework.com/)
 
-7. **Volunteering** - Volunteering is an underrated networking method. Unlike happy hours and networking events, volunteering centers on giving back to a cause. However, it also provides the chance to meet new people who share your interests and do impactful work. Meeting people at volunteer events shows the people present that you’re passionate about your chosen career and you work hard.Example: [Girls Who Code](http://girlswhocode.com/get-involved/) (Sofwtare Engineering), [DataKind](https://www.datakind.org/) (Data Science), [Design for Good](https://www.aiga.org/designforgood-get-involved) (Design), [Catchafire](https://www.catchafire.org/), [TapRoot+](https://www.taprootplus.org/), [Volunteer Match](https://www.volunteermatch.org/)
+7. **Volunteering** - Volunteering is an underrated networking method. Unlike happy hours and networking events, volunteering centers on giving back to a cause. However, it also provides the chance to meet new people who share your interests and do impactful work. Meeting people at volunteer events shows the people present that you’re passionate about your chosen career and that you work hard. Example: [Girls Who Code](http://girlswhocode.com/get-involved/) (Software Engineering), [DataKind](https://www.datakind.org/) (Data Science), [Design for Good](https://www.aiga.org/designforgood-get-involved) (Design), [Catchafire](https://www.catchafire.org/), [TapRoot+](https://www.taprootplus.org/), [Volunteer Match](https://www.volunteermatch.org/)
 
 While building a professional community is important, don’t limit yourself to attending only events in your industry. If you attend events outside of the industry, you’ll stand out more *because you’ll probably be one of the few there with your skill set!*
 
